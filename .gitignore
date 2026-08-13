@@ -1,0 +1,16 @@
+data/
+*.csv
+*.tsv
+*.xlsx
+*.json
+!**/nbformat*.json
+
+.ipynb_checkpoints/
+__pycache__/
+
+.env
+*.env
+.venv/
+
+Thumbs.db
+.DS_Store
